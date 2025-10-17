@@ -26,5 +26,5 @@ const prompts = [
 Made with ❤️ and curiosity by Shyam Prasad Banda
 ---
 
-Once you’ve created it, send me your repo link —  
+Once you’ve created it, send me your repo link   
 I’ll help you polish it to look like a **real open-source project** (badges, versioning, etc.).
