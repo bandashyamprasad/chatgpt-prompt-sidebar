@@ -23,6 +23,9 @@ const prompts = [
   "Explain like I’m five",
   "List key insights as bullet points"
 ];
+
+
+
 Made with ❤️ and curiosity by Shyam Prasad Banda
 ---
 
