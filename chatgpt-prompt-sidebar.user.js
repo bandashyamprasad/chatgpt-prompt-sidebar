@@ -17,7 +17,9 @@
         "Explain like I'm five",
         "List key insights as bullet points",
         "Generate test cases for this scenario",
-        "Turn this into a LinkedIn post"
+        "Turn this into a LinkedIn post",
+        "Give me a version 2.0 for this idea",
+        "What will help me in making this a reality?"
     ];
 
     function getInputBox() {
